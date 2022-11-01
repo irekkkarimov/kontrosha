@@ -1,0 +1,15 @@
+C:\Users\Booba\RiderProjects\kr\kr\bin\Debug\net6.0\kr.exe
+C:\Users\Booba\RiderProjects\kr\kr\bin\Debug\net6.0\kr.deps.json
+C:\Users\Booba\RiderProjects\kr\kr\bin\Debug\net6.0\kr.runtimeconfig.json
+C:\Users\Booba\RiderProjects\kr\kr\bin\Debug\net6.0\kr.dll
+C:\Users\Booba\RiderProjects\kr\kr\bin\Debug\net6.0\kr.pdb
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.csproj.AssemblyReference.cache
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.AssemblyInfoInputs.cache
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.AssemblyInfo.cs
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.csproj.CoreCompileInputs.cache
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.dll
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\refint\kr.dll
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.pdb
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\kr.genruntimeconfig.cache
+C:\Users\Booba\RiderProjects\kr\kr\obj\Debug\net6.0\ref\kr.dll
