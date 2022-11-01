@@ -8,7 +8,7 @@ public class Program
         var matrix = MatrixGenerate(length);
         var oddMatrix1 = OddMatrixFiller(length, length);
         var oddMatrix2 = OddMatrixFiller(length, length);
-        //var inputtedMatrix = MatrixRead(@"C:\Users\Booba\RiderProjects\strings\strings\bin\Debug\net6.0\MatrixForRead.txt");
+       // var inputtedMatrix = MatrixRead(@"C:\Users\Booba\RiderProjects\strings\strings\bin\Debug\net6.0\MatrixForRead.txt");
         MatrixPrinter(MatrixSum(oddMatrix1, oddMatrix2, length, length), length, length);
         TheMostPrimeNumberColumn(oddMatrix1, length, length);
     }
